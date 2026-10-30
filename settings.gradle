@@ -1,0 +1,3 @@
+rootProject.name = 'clonal'
+
+include 'clonal', 'clonal-model', 'clonal-openapi', 'clonal-cli'
